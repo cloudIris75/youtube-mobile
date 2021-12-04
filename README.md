@@ -1,5 +1,5 @@
 # YouTube Mobile Clone Coding
-|<img src="assets/images/index-wide.png" width="80%" height="80%" alt="index-wide" />|<img src="assets/images/index.png" width="80%" height="80%" alt="index" />|
+|<img src="assets/images/index-wide.png" alt="index-wide" />|<img src="assets/images/index.png" alt="index" />|
 |-|-|
 
 ## About
