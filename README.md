@@ -6,7 +6,7 @@
 유튜브 모바일에서 프론트엔드(반응형 UI)를 중심으로 클론 코딩한 프로젝트.
 
 ## Stack
-HTML, CSS, JavaScript
+HTML, CSS, Vanilla JavaScript
 
 ## Period
 2021.8.20. ~ 2021.8.23.
